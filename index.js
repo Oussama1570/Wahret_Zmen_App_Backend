@@ -11,7 +11,7 @@ const port = process.env.PORT || 5000;
 const allowedOrigins = process.env.ALLOWED_ORIGINS
   ? process.env.ALLOWED_ORIGINS.split(",")
   : [
-      "https://wahret-zmen-app-frontend.vercel.app",
+      "https://wahret-zmen-app-frontend-xi.vercel.app",
       "https://wahret-zmen-app-frontend-git-main-oussama-labbens-projects.vercel.app"
     ];
 
